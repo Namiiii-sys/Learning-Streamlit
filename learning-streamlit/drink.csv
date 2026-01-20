@@ -1,0 +1,11 @@
+drink_id,drink_name,category,flavor,served_cold,calories_per_serving,main_ingredient,caffeine
+1,Lemonade,Juice,Citrus,Yes,120,Lemon,No
+2,Cold Coffee,Coffee,Bitter-Sweet,Yes,150,Coffee Beans,Yes
+3,Green Tea,Tea,Herbal,No,5,Green Tea Leaves,Yes
+4,Milkshake,Dairy,Sweet,Yes,220,Milk,No
+5,Fresh Orange Juice,Juice,Citrus,Yes,110,Orange,No
+6,Iced Tea,Tea,Peach,Yes,90,Tea Extract,Yes
+7,Smoothie,Fruit Blend,Berry,Yes,180,Mixed Fruits,No
+8,Hot Chocolate,Dairy,Chocolate,No,200,Cocoa,No
+9,Mocktail Mojito,Mocktail,Mint-Lime,Yes,80,Mint,No
+10,Energy Drink,Soft Drink,Sweet,Yes,160,Taurine,Yes
